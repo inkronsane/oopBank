@@ -1,0 +1,34 @@
+
+z
+java:S1104"\Make accountDirectory a static final constant or non-public and provide accessors if needed.(Äó¨ä8‹‚æìÊ1
+}
+java:S1104"ZMake cardsDirectory a static final constant or non-public and provide accessors if needed.(¶™…¤øÿÿÿÿ8‹‚æìÊ1
+T
+java:S1444"6Make this "public static accountDirectory" field final(Äó¨ä8‹‚æìÊ1
+W
+java:S1444"4Make this "public static cardsDirectory" field final(¶™…¤øÿÿÿÿ8‹‚æìÊ1
+\
+java:S1118
+":Add a private constructor to hide the implicit public one.(ÀÛš÷ùÿÿÿÿ8¯‚æìÊ1
+C
+java:S1075I"&Remove this hard-coded path-delimiter.(ª‰ä¨8»‚æìÊ1
+H
+java:S1075R"&Remove this hard-coded path-delimiter.(Ö½êÍùÿÿÿÿ8Â‚æìÊ1
+I
+java:S1075"&Remove this hard-coded path-delimiter.(‚á¤Ÿüÿÿÿÿ8Ã‚æìÊ1
+K
+java:S3010š"-Remove this assignment of "accountDirectory".(ÍèÊü8Ã‚æìÊ1
+I
+java:S3010›"+Remove this assignment of "cardsDirectory".(ßÇãê8Ã‚æìÊ1
+D
+java:S1075š"&Remove this hard-coded path-delimiter.(ÍèÊü8Ã‚æìÊ1
+D
+java:S1075š"&Remove this hard-coded path-delimiter.(ÍèÊü8Ë‚æìÊ1
+D
+java:S1075›"&Remove this hard-coded path-delimiter.(ßÇãê8Ì‚æìÊ1
+D
+java:S1075›"&Remove this hard-coded path-delimiter.(ßÇãê8Ì‚æìÊ1
+;
+java:S2119Ó"Save and re-use this "Random".(¼İÅf8Í‚æìÊ1
+O
+java:S1068"-Remove this unused "CARD_NAME" private field.(ÖÓ¶úÿÿÿÿ8Í‚æìÊ1
